@@ -1,0 +1,45 @@
+body{
+	background-color: #f2f2f2;
+	padding: 20px;
+}
+
+li{
+	font-family: 'Raleway', sans-serif;
+}
+
+ul li {
+	list-style-type:circle
+}
+h1 {
+	color: #ff4d4d;
+	font-size: 45px;
+	font-family: 'Shrikhand', cursive;
+	line-height: 50px;
+}
+
+h2 {
+	color:  #808080;
+	font-size: 22px;
+	font-family: 'Shrikhand', cursive;
+}
+
+p {
+
+}
+
+a:link {
+	color:  #ff4d4d;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #ff3333;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+	color:  #ff9999;
+}
